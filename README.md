@@ -2,14 +2,14 @@
 
 # Steps To Install And Run
 
-1. Open terminal
+1. Open terminal and type
 2. cd netflix-ui
 3. npm install
 4. let this finish
 
 # #
 
-1. Open terminal
+1. Open new terminal and type
 2. cd netflix-api
 3. npm install
 4. let this finish
@@ -17,8 +17,15 @@
 
 # #
 
-1. Open terminal
-2. npm start
+1. Open new terminal and type
+2. cd netflix-ui
+3. npm start
+
+# #
+
+1. Open new terminal and type
+2. cd netflix-api
+3. npm start
 
 # #
 
@@ -39,6 +46,8 @@
 # Modules for frontend
 ![image](https://user-images.githubusercontent.com/75556042/235300351-2dec692e-f496-47b1-bc56-a5205341a089.png)
 ![image](https://user-images.githubusercontent.com/75556042/235300360-f8ab310a-9ae3-40d4-9b7d-2d773ed304dd.png)
+
+
 style-components
 
 # Modules For Backend
@@ -53,6 +62,9 @@ style-components
 
 # Database Used
 ![image](https://user-images.githubusercontent.com/75556042/235300422-01eba256-2345-44f3-87a3-c3cd38d9387d.png)
+
+
+
 (MONGODB ATLAS)
 
 
